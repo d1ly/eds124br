@@ -10,6 +10,7 @@ Show What You Know: Write and Explain A Program:
 https://www.youtube.com/watch?v=8c1_K92lTbc
 
 Teaching Programming Portfolio - Lesson Plan:
+https://youtu.be/MWygIs_7Jz8
 
 # Week 3: Nested Repeats and Events (Part 1)
 
