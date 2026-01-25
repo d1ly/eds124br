@@ -13,7 +13,11 @@ Teaching Programming Portfolio - Lesson Plan:
 https://youtu.be/MWygIs_7Jz8
 
 # Week 3: Nested Repeats and Events (Part 1)
+Nested Loops:
+https://youtu.be/KD5w_TZMeyw
 
+Events:
+https://youtu.be/2R8ebYqmku0
 # Week 4: Events (Part 2) and Variables (Part 1)
 
 # Week 5: Conditional Loops
