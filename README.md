@@ -19,7 +19,8 @@ https://youtu.be/KD5w_TZMeyw
 Events:
 https://youtu.be/2R8ebYqmku0
 # Week 4: Events (Part 2) and Variables (Part 1)
-
+Show what you know: Variables: 
+https://youtu.be/CnGIR46VhEk
 # Week 5: Conditional Loops
 
 # Week 6: If Stateemnts
