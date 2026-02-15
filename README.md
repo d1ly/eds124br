@@ -25,7 +25,7 @@ https://youtu.be/CnGIR46VhEk
 # Week 5: Conditional Loops
 https://youtu.be/1AjpWcSfA9s
 # Week 6: If Stateemnts
-
+https://youtu.be/DUIPpMdGAr8
 # Week 7: Nested If/else
 
 # Week 8: Compound Conditionals
