@@ -27,7 +27,7 @@ https://youtu.be/1AjpWcSfA9s
 # Week 6: If Statements
 https://youtu.be/13RbuROXbgQ
 # Week 7: Nested If/else
-
+https://youtu.be/7agpNsIsYqo
 # Week 8: Compound Conditionals
 
 # Week 9: Abstractions
