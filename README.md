@@ -29,7 +29,7 @@ https://youtu.be/13RbuROXbgQ
 # Week 7: Nested If/else
 https://youtu.be/7agpNsIsYqo
 # Week 8: Compound Conditionals
-
+https://youtu.be/_P0GvAWLgnM
 # Week 9: Abstractions
 
 # Week 10: Lists
