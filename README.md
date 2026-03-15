@@ -33,3 +33,4 @@ https://youtu.be/_P0GvAWLgnM
 # Week 9: Abstractions
 https://youtu.be/w0FZA7DL7tc
 # Week 10: Lists
+https://youtu.be/xBmcc7TXaNE
